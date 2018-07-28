@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\circularimageview-3.2.0.aar\ab79375e0128663c401d14f51a451761\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\0b92a4085fec8061a6a421cfffae0e75\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7a3c3527146c7455eede2612477322b9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\ac58fc088c58b57c64f20d0adb00ecb2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\3fbcede04e3cf9f8a489e17a32e1fd70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\0a7df4d28ef51b737a805813722b7a2e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\26dbe24d287829490f8a7a0f6818f6ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\961c7209ad4bab60bbaf409acf20c085\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\e42a73703fb94a2981cc9ffebe59e3d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\6bef35f5f5c4d232be84f02648ef5322\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\d1f2f84e94303dcd301b0080d4ca56e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\1917dafb8b4085257efbd683ea5c4ac9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\f0d562a1461059d560a7d44c6a6620aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\f9d2005c84736a5dc10c8bde37ee96d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\fa66f4f5162ddd1d44bed9d53a6e5740\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\7ae1ed3e527122749a6a0de0b4de5ed5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\43de1b075fedef6a2239cfdd8527317c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\78fea3e26ff4e3b373af3fd69dfc6526\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c0f0f3740b7b6f36b2d53f0c938343fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\55316b73d5a9f74949d42793def496fa\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\98bc36e0df3392d7f7bcc48548cc4792\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\d7ffe3c01d302975127580ddb92c958f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\0e39d37fa6637aca245565a82ba03ae0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\504e4b93eda3f92e37a794dc71fce808\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\21135339988a1a368519bdc54ae8641e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9b68272788ec987e9aaa7f618f4efafe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\3315ac83febe851ecab51d33abfd0161\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:5:22-65
+application
+ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7a3c3527146c7455eede2612477322b9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7a3c3527146c7455eede2612477322b9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\43de1b075fedef6a2239cfdd8527317c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\43de1b075fedef6a2239cfdd8527317c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\55316b73d5a9f74949d42793def496fa\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\55316b73d5a9f74949d42793def496fa\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\43de1b075fedef6a2239cfdd8527317c\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:12:9-36
+	android:label
+		ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:13:9-40
+activity#io.github.roasted715jr.musicplayer.MainActivity
+ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\circularimageview-3.2.0.aar\ab79375e0128663c401d14f51a451761\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\circularimageview-3.2.0.aar\ab79375e0128663c401d14f51a451761\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\0b92a4085fec8061a6a421cfffae0e75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\0b92a4085fec8061a6a421cfffae0e75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7a3c3527146c7455eede2612477322b9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7a3c3527146c7455eede2612477322b9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\ac58fc088c58b57c64f20d0adb00ecb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\ac58fc088c58b57c64f20d0adb00ecb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\3fbcede04e3cf9f8a489e17a32e1fd70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\3fbcede04e3cf9f8a489e17a32e1fd70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\0a7df4d28ef51b737a805813722b7a2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\0a7df4d28ef51b737a805813722b7a2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\26dbe24d287829490f8a7a0f6818f6ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\26dbe24d287829490f8a7a0f6818f6ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\961c7209ad4bab60bbaf409acf20c085\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\961c7209ad4bab60bbaf409acf20c085\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\e42a73703fb94a2981cc9ffebe59e3d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\e42a73703fb94a2981cc9ffebe59e3d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\6bef35f5f5c4d232be84f02648ef5322\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\6bef35f5f5c4d232be84f02648ef5322\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\d1f2f84e94303dcd301b0080d4ca56e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\d1f2f84e94303dcd301b0080d4ca56e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\1917dafb8b4085257efbd683ea5c4ac9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\1917dafb8b4085257efbd683ea5c4ac9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\f0d562a1461059d560a7d44c6a6620aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\f0d562a1461059d560a7d44c6a6620aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\f9d2005c84736a5dc10c8bde37ee96d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\f9d2005c84736a5dc10c8bde37ee96d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\fa66f4f5162ddd1d44bed9d53a6e5740\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\fa66f4f5162ddd1d44bed9d53a6e5740\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\7ae1ed3e527122749a6a0de0b4de5ed5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\7ae1ed3e527122749a6a0de0b4de5ed5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\43de1b075fedef6a2239cfdd8527317c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\43de1b075fedef6a2239cfdd8527317c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\78fea3e26ff4e3b373af3fd69dfc6526\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\78fea3e26ff4e3b373af3fd69dfc6526\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c0f0f3740b7b6f36b2d53f0c938343fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c0f0f3740b7b6f36b2d53f0c938343fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\55316b73d5a9f74949d42793def496fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\55316b73d5a9f74949d42793def496fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\98bc36e0df3392d7f7bcc48548cc4792\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\98bc36e0df3392d7f7bcc48548cc4792\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\d7ffe3c01d302975127580ddb92c958f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\d7ffe3c01d302975127580ddb92c958f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\0e39d37fa6637aca245565a82ba03ae0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\0e39d37fa6637aca245565a82ba03ae0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\504e4b93eda3f92e37a794dc71fce808\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\504e4b93eda3f92e37a794dc71fce808\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\21135339988a1a368519bdc54ae8641e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\21135339988a1a368519bdc54ae8641e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9b68272788ec987e9aaa7f618f4efafe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9b68272788ec987e9aaa7f618f4efafe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\3315ac83febe851ecab51d33abfd0161\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\Matth\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\3315ac83febe851ecab51d33abfd0161\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Matth\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
